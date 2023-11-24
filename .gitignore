@@ -26,6 +26,9 @@
 # gradleファイル
 .gradle/
 
+#Macで自動生成される
+.DS_Store
+
 # 自動VS/MD/Consuloとプロジェクトファイル
 ExportedObj/
 .consulo/
