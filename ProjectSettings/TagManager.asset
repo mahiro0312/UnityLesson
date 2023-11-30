@@ -47,3 +47,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Back
+    uniqueID: 2351240421
+    locked: 0
+  - name: Road
+    uniqueID: 613262467
+    locked: 0
+  - name: Object
+    uniqueID: 1938520781
+    locked: 0
+  - name: Char
+    uniqueID: 1840795917
+    locked: 0
+  - name: Front
+    uniqueID: 2431389107
+    locked: 0
